@@ -9,4 +9,4 @@ This was basically just a way to teach myself some things about linux, css, gith
 - Speaker and Mic Volume
 - Date and time
 ## Preview
-![Preview](https://i.postimg.cc/DyXx1hN8/Jaybar-Preview.png)
+![Preview](https://github.com/user-attachments/assets/2dc3d6b2-51af-4be5-84bf-a01d6f85be95)
